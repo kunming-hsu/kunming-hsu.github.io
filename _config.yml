@@ -16,10 +16,8 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
-  social_links:
-    weibo: kunminghsu
-      url:https://weibo.com/kunminghsu
-    github:  kunming-hsu
+  # social_links:
+
     
     rss: rss
     #linkedIn: in/thelehhman
