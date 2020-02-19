@@ -10,8 +10,8 @@ remote_theme: thelehhman/plainwhite-jekyll
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Kunming Hsu
-  tagline: Engineer HERP&ERP
+  name: Kunming HSU
+  tagline: engineer herp&erp
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
