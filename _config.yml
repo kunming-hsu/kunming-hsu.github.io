@@ -2,7 +2,7 @@ title: Engineer Blog
 author: kunminghsu
 email: kunming.hsu@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-Engineer/HERP/ERP
+   Engineer HERP ERP
 show_excerpts: true # set to true to show excerpts on the homepage
 remote_theme: thelehhman/plainwhite-jekyll
 # Minima date format
