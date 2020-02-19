@@ -18,9 +18,11 @@ plainwhite:
   # generate social links in footer
   social_links:
     weibo: kunminghsu
+      url:https://weibo.com/kunminghsu
     github:  kunming-hsu
-    #linkedIn: in/thelehhman
+    
     rss: rss
+    #linkedIn: in/thelehhman
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
