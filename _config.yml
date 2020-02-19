@@ -16,11 +16,12 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
-  # social_links:
-
+  social_links:
+   github: kunming-hsu
+   weibo: kunminghsu
     
-    #rss: rss
-    #linkedIn: in/thelehhman
+    rss: rss
+    
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
