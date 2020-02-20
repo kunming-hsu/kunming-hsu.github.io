@@ -1,7 +1,9 @@
+---
 layout: post
-title:  "乘法口诀"
-date:   2020-02-20 00:08:36 +530
-categories: SQL
+title:  "文件比较工具Beyond Compare"
+date:   2020-02-20 18:20:36 +0800
+categories: BeyondCompare 文件比较
+---
 
 日常工作中经常会遇到两个文件比较同步的问题，经常对比对到眼瞎，而且时常出篓子，运用小工具，提高工作效率。Beyond Compare是一款只有10M左右的小软件，但是功能非常强大，安装完成，会在文件的右键菜单增加两个菜单
 
