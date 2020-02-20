@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "文件比较工具Beyond Compare"
-date:   2020-02-20 18:20:36 +0800
+date:   2020-02-20 18:20:36 +0530
 categories: BeyondCompare 文件比较
 ---
 
