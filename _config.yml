@@ -49,7 +49,7 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-timezone: Asia/Shanghai
+
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
